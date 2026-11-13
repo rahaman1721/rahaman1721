@@ -40,19 +40,19 @@ DevOps & Tools: Git, GitHub Actions, Docker, Vercel, VS Code
 
 ## 📱 Mobile Application Development
 
-### 🥥 [Pooja Coconut Scan AI](https://github.com/rahaman1711/pooja-coconut-scan-ai)
+### 🥥 [Pooja Coconut Scan AI](https://github.com/rahaman1721/pooja-coconut-scan-ai)
 *AI-driven B2B Agricultural Quality Grading & Marketplace Platform*
 - **Stack**: React 19, Capacitor, AWS Amplify Gen 2, Amazon Cognito, DynamoDB, TensorFlow Lite.
 - Engineered offline-first on-device AI computer vision inference for real-time agricultural grading.
 - Implemented real-time market synchronization, multi-role buyer/seller workflows, and secure document verification.
 
-### 💰 [KAAS Personal Finance App](https://github.com/rahaman1711/kaas-personal-finance-app)
+### 💰 [KAAS Personal Finance App](https://github.com/rahaman1721/kaas-personal-finance-app)
 *Clean, Privacy-Centric Offline Personal Finance & Expense Tracker*
 - **Stack**: React 19, TypeScript, Vite, Capacitor, LocalStorage, Custom SVG Visualizations.
 - Zero server-dependency privacy architecture: 100% on-device encrypted data persistence.
 - Interactive category breakdown, budget burn charts, dynamic currency toggles, and instant CSV/JSON exports.
 
-### 📊 [Bajaj Billing & Inventory SaaS](https://github.com/rahaman1711/bajaj-billing-inventory-case-study)
+### 📊 [Bajaj Billing & Inventory SaaS](https://github.com/rahaman1721/bajaj-billing-inventory-case-study)
 *Enterprise Point-of-Sale, Stock Tracking, and Invoicing Application*
 - **Stack**: React 19, Vite, Node.js, Capacitor Android.
 - Automated invoice processing and inventory replenishment, achieving a verified **~50% reduction in manual data entry**.
@@ -61,18 +61,18 @@ DevOps & Tools: Git, GitHub Actions, Docker, Vercel, VS Code
 
 ## 💻 Full-Stack Web Development
 
-### 🌙 [Moon Bot — AI Customer Support Chatbot](https://github.com/rahaman1711/ai-customer-support-chatbot)
+### 🌙 [Moon Bot — AI Customer Support Chatbot](https://github.com/rahaman1721/ai-customer-support-chatbot)
 *Production AI Customer Support Platform powered by Groq LLaMA/GPT & Node.js Proxy*
 - **Stack**: React, Node.js, Groq API, Streaming SSE (Server-Sent Events), LocalStorage.
 - Secure server proxy architecture ensuring zero browser exposure of sensitive LLM API keys.
 - Real-time token streaming with sub-200ms latency, intelligent company FAQ grounding, and fallback escalation.
 
-### 🎓 [GSBT Institutional Portal Mirror & Architecture](https://github.com/rahaman1711/gsbt-website-clone)
+### 🎓 [GSBT Institutional Portal Mirror & Architecture](https://github.com/rahaman1721/gsbt-website-clone)
 *Complete Offline-First High-Performance Mirror & Optimization Case Study*
 - **Stack**: HTML5, Vanilla JavaScript, CSS3, Automated Web Crawling & Mirroring Suite.
 - Mirrored 85+ dynamic department and admissions pages with 13,000+ validated link rewrites and zero 404 deadlocks.
 
-### 🏢 [Peniel Tech Enterprise Platform](https://github.com/rahaman1711)
+### 🏢 [Peniel Tech Enterprise Platform](https://github.com/rahaman1721)
 *Multi-tenant Enterprise Resource & Operations Portal*
 - **Stack**: React 18, Node.js, JWT Role-Based Access Control, Express.
 - Centralized administration console for enterprise clients, real-time metrics dashboard, and audit trails.
@@ -81,14 +81,14 @@ DevOps & Tools: Git, GitHub Actions, Docker, Vercel, VS Code
 
 ## 🎨 UI/UX Design Case Studies
 
-### 🏆 [ECE Department Website — Anna University](https://github.com/rahaman1711/Department)
+### 🏆 [ECE Department Website — Anna University](https://github.com/rahaman1721/Department)
 - Design adopted as the official department website template.
 - Directed stakeholder interviews across faculty and student bodies to craft a modern, WCAG-compliant design system adopted as the official institutional template.
 
-### 💍 [Boat Smart Ring Wearable Companion](https://github.com/rahaman1711/boatSmartRing)
+### 💍 [Boat Smart Ring Wearable Companion](https://github.com/rahaman1721/boatSmartRing)
 - High-fidelity product design concept, 3D interaction mockup, and health tracking companion experience.
 
-### 🍱 [UI/UX Task Series (Tasks 1–4)](https://github.com/rahaman1711?tab=repositories&q=ui-ux)
+### 🍱 [UI/UX Task Series (Tasks 1–4)](https://github.com/rahaman1721?tab=repositories&q=ui-ux)
 - **Task 1**: Food Ordering App — Minimalist checkout funnel.
 - **Task 2**: E-Commerce Platform — Micro-interactions & filter architecture.
 - **Task 3**: Clean Newsletter System — Responsive modular email design.
