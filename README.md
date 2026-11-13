@@ -19,7 +19,7 @@ I am a product-minded **Full Stack Engineer**, **Mobile Application Developer**,
 With deep experience across modern **React**, **TypeScript**, **Node.js**, **Capacitor**, and cloud-native serverless architectures (AWS Amplify Gen 2, DynamoDB, AppSync), I bridge the gap between aesthetic design systems and scalable software engineering.
 
 - 🔭 **Current Role**: UI/UX & AI Developer at **Sociocloud Pvt. Ltd.**, Chennai
-- 🎓 **Education**: B.E. in Electronics & Communication Engineering, **Anna University Regional Campus Madurai** (First Prize Winner — Department Portal Redesign)
+- 🎓 **Education**: B.E. in Electronics & Communication Engineering, **Anna University Regional Campus Madurai** 
 - 🚀 **Specializations**: Hybrid Mobile Apps (Capacitor/Android), AI integrations (Groq/OpenAI, TFLite on-device), Scalable REST/GraphQL APIs, and Figma Design Systems.
 
 ---
