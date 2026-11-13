@@ -82,7 +82,7 @@ DevOps & Tools: Git, GitHub Actions, Docker, Vercel, VS Code
 ## 🎨 UI/UX Design Case Studies
 
 ### 🏆 [ECE Department Website — Anna University](https://github.com/rahaman1711/Department)
-- **First Prize Winner** across Anna University regional campus design symposium.
+- Design adopted as the official department website template.
 - Directed stakeholder interviews across faculty and student bodies to craft a modern, WCAG-compliant design system adopted as the official institutional template.
 
 ### 💍 [Boat Smart Ring Wearable Companion](https://github.com/rahaman1711/boatSmartRing)
