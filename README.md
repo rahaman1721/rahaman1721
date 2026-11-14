@@ -8,6 +8,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-obaidhur--rahaman--1721z-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obaidhur-rahaman-1721z)
 [![Email](https://img.shields.io/badge/Email-rahaman171920@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahaman171920@gmail.com)
 
+<br/>
+
+[![Skills](https://skillicons.dev/icons?i=react,ts,js,nodejs,express,tailwind,vite,nextjs,python,aws,figma,postman,git,github)](https://skillicons.dev)
+
 </div>
 
 ---
@@ -16,40 +20,32 @@
 
 I am a product-minded **Full Stack Engineer**, **Mobile Application Developer**, and **UI/UX Designer** specializing in building high-performance web applications, offline-first hybrid mobile apps, and user-centric interfaces. 
 
-With deep experience across modern **React**, **TypeScript**, **Node.js**, **Capacitor**, **Shopify Liquid**, and cloud-native serverless architectures (AWS Amplify Gen 2, DynamoDB, AppSync), I bridge the gap between aesthetic design systems and scalable software engineering.
+With deep experience across modern **React 19**, **TypeScript**, **Node.js**, **Capacitor**, **Shopify Liquid**, and cloud-native serverless architectures (AWS Amplify Gen 2, DynamoDB, AppSync), I bridge the gap between aesthetic design systems and scalable software engineering.
 
 - 🎓 **Education**: B.E. in Electronics & Communication Engineering, **Anna University Regional Campus Madurai**
 - 🚀 **Specializations**: Hybrid Mobile Apps (Capacitor/Android), AI Integrations (Groq/OpenAI, TFLite on-device), Shopify Theme Development, Scalable REST APIs, and Figma Design Systems
 
 ---
 
-## 📊 Engineering & Activity Metrics
+## 🛠️ Core Tech Stack & Frameworks
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahaman1721&theme=tokyonight" alt="GitHub Profile Details" height="175" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahaman1721&theme=tokyonight" alt="Repos Per Language" height="175" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=rahaman1721&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+| Domain | Technologies & Frameworks |
+|:---|:---|
+| **Frontend Frameworks** | ![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Mobile & Edge AI** | ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white) ![Android](https://img.shields.io/badge/Android_APK-3DDC84?style=flat-square&logo=android&logoColor=white) ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **Backend & Cloud** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![AWS Amplify Gen 2](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat-square&logo=awsamplify&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) |
+| **E-Commerce & AI** | ![Shopify Liquid](https://img.shields.io/badge/Shopify_Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white) ![Groq LLM](https://img.shields.io/badge/Groq_API-F05A28?style=flat-square&logo=openai&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white) |
+| **UI/UX & Product** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Design Systems](https://img.shields.io/badge/Design_Systems-8A2BE2?style=flat-square) ![Responsive UX](https://img.shields.io/badge/WCAG_Accessibility-2E8B57?style=flat-square) |
 
 </div>
 
----
+<br/>
 
-## 🛠️ Technical Arsenal
-
-`
-Languages:     TypeScript, JavaScript (ESNext), Python, HTML5, CSS3, SQL, Liquid
-Frontend:      React 19 / 18, Vite, Next.js, Tailwind CSS, Redux Toolkit
-Mobile:        Capacitor, Android (APK), Offline-First Architecture, TFLite
-Backend & API: Node.js, Express, REST APIs, GraphQL, AWS AppSync
-Cloud & DB:    AWS Amplify Gen 2, Amazon Cognito, DynamoDB, Amazon S3, PostgreSQL, SQLite
-E-Commerce:    Shopify Liquid, Custom Theme Architecture, Storefront API
-Design & UX:   Figma, Design Systems, Wireframing, Rapid Prototyping, Usability Testing
-DevOps & Tools: Git, GitHub Actions, Docker, Vercel, VS Code
-`
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=rahaman1721&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
