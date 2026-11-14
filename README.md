@@ -44,7 +44,6 @@ With deep experience across modern **React 19**, **TypeScript**, **Node.js**, **
 <br/>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=rahaman1721&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
