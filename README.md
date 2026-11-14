@@ -70,10 +70,10 @@ With deep experience across modern **React 19**, **TypeScript**, **Node.js**, **
 
 ### 💻 Full-Stack Web & E-Commerce
 
-#### 🕶️ [NARKK Luxury Eyewear — Shopify Theme](https://github.com/rahaman1721/narkk-shopify)
-*High-End Custom Shopify Liquid Theme Development*
+#### 🪵 [NARKK — Modular Storage & Furniture Storefront](https://github.com/rahaman1721/narkk-shopify)
+*Custom Shopify OS 2.0 Theme Development for Modern Modular Storage Systems*
 - **Stack**: Shopify Liquid, HTML5, CSS3, JavaScript ES6+, Theme Architecture.
-- Custom luxury storefront featuring dynamic video hero showcases, interactive product variant selectors, drawer cart, and seamless checkout handoff.
+- Custom handcrafted storefront featuring dynamic video showcases (Tulai pegboard collection), interactive product variant selectors, drawer cart, and responsive storefront sections.
 - Fully modular Liquid sections and snippets architecture adhering to Shopify OS 2.0 standards.
 
 #### 🌙 [Moon Bot — AI Customer Support Chatbot](https://github.com/rahaman1721/ai-customer-support-chatbot)
