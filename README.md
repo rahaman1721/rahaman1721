@@ -99,6 +99,12 @@ With deep experience across modern **React 19**, **TypeScript**, **Node.js**, **
 - Centralized customer record management, business intelligence dashboards, and structured operational tracking.
 - 🌐 [Live Interface](https://www.sprakdigitask.liveblog365.com/index.php?i=1)
 
+#### 🏢 [Peniel Technology — Enterprise ERP Platform](https://github.com/rahaman1721/penieltech-enterprise-platform)
+*Enterprise ERP Solutions, Tax Engines & Corporate Web Architecture (Dubai, UAE)*
+- **Stack**: React 19, TypeScript, Tailwind CSS, Vite.
+- Scalable corporate web platform featuring interactive UAE VAT and Corporate Tax computation engines, ERP platform comparison switchers (Oracle, SAP, Microsoft Dynamics 365, TallyPrime, Zoho), and certified partner showcase.
+- 🌐 [Live Corporate Portal](https://www.penieltech.com/)
+
 ---
 
 ### 🎨 UI/UX Design & Case Studies
