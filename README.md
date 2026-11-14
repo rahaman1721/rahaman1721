@@ -18,9 +18,23 @@ I am a product-minded **Full Stack Engineer**, **Mobile Application Developer**,
 
 With deep experience across modern **React**, **TypeScript**, **Node.js**, **Capacitor**, **Shopify Liquid**, and cloud-native serverless architectures (AWS Amplify Gen 2, DynamoDB, AppSync), I bridge the gap between aesthetic design systems and scalable software engineering.
 
-- 💼 **Current Role**: UI/UX & AI Developer at **Sociocloud Pvt. Ltd.**, Chennai
 - 🎓 **Education**: B.E. in Electronics & Communication Engineering, **Anna University Regional Campus Madurai**
 - 🚀 **Specializations**: Hybrid Mobile Apps (Capacitor/Android), AI Integrations (Groq/OpenAI, TFLite on-device), Shopify Theme Development, Scalable REST APIs, and Figma Design Systems
+
+---
+
+## 📊 Engineering & Activity Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahaman1721&theme=tokyonight" alt="GitHub Profile Details" height="175" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahaman1721&theme=tokyonight" alt="Repos Per Language" height="175" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=rahaman1721&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
@@ -119,7 +133,7 @@ DevOps & Tools: Git, GitHub Actions, Docker, Vercel, VS Code
 
 ## 💼 Professional Experience
 
-- **UI/UX & AI Developer** — *Sociocloud Pvt. Ltd., Chennai* (Dec 2024 – Present)
+- **UI/UX & AI Developer** (Dec 2024 – Present)
   - Leading frontend architecture and AI integration prototypes.
   - Designing comprehensive component libraries and high-converting web applications.
 - **Frontend & Design Lead** — *Department Portal Project, Anna University* (2024)
