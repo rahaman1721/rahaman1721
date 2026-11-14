@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### **Full Stack Developer | Hybrid App Developer | UI/UX Designer**
+### **Full Stack Developer | Hybrid Mobile App Developer | UI/UX Designer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rahaman1721.framer.website-6366f1?style=for-the-badge&logo=framer&logoColor=white)](https://rahaman1721.framer.website)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-obaidhur--rahaman--1721z-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obaidhur-rahaman-1721z)
@@ -16,90 +16,111 @@
 
 I am a product-minded **Full Stack Engineer**, **Mobile Application Developer**, and **UI/UX Designer** specializing in building high-performance web applications, offline-first hybrid mobile apps, and user-centric interfaces. 
 
-With deep experience across modern **React**, **TypeScript**, **Node.js**, **Capacitor**, and cloud-native serverless architectures (AWS Amplify Gen 2, DynamoDB, AppSync), I bridge the gap between aesthetic design systems and scalable software engineering.
+With deep experience across modern **React**, **TypeScript**, **Node.js**, **Capacitor**, **Shopify Liquid**, and cloud-native serverless architectures (AWS Amplify Gen 2, DynamoDB, AppSync), I bridge the gap between aesthetic design systems and scalable software engineering.
 
-- 🔭 **Current Role**: UI/UX & AI Developer at **Sociocloud Pvt. Ltd.**, Chennai
-- 🎓 **Education**: B.E. in Electronics & Communication Engineering, **Anna University Regional Campus Madurai** 
-- 🚀 **Specializations**: Hybrid Mobile Apps (Capacitor/Android), AI integrations (Groq/OpenAI, TFLite on-device), Scalable REST/GraphQL APIs, and Figma Design Systems.
+- 💼 **Current Role**: UI/UX & AI Developer at **Sociocloud Pvt. Ltd.**, Chennai
+- 🎓 **Education**: B.E. in Electronics & Communication Engineering, **Anna University Regional Campus Madurai**
+- 🚀 **Specializations**: Hybrid Mobile Apps (Capacitor/Android), AI Integrations (Groq/OpenAI, TFLite on-device), Shopify Theme Development, Scalable REST APIs, and Figma Design Systems
 
 ---
 
-## 🛠️ Technical Stack & Skills
+## 🛠️ Technical Arsenal
 
-```text
+`
 Languages:     TypeScript, JavaScript (ESNext), Python, HTML5, CSS3, SQL, Liquid
 Frontend:      React 19 / 18, Vite, Next.js, Tailwind CSS, Redux Toolkit
-Mobile:        Capacitor, Android (APK/AAB), Offline-First Architecture, TFLite
+Mobile:        Capacitor, Android (APK), Offline-First Architecture, TFLite
 Backend & API: Node.js, Express, REST APIs, GraphQL, AWS AppSync
 Cloud & DB:    AWS Amplify Gen 2, Amazon Cognito, DynamoDB, Amazon S3, PostgreSQL, SQLite
+E-Commerce:    Shopify Liquid, Custom Theme Architecture, Storefront API
 Design & UX:   Figma, Design Systems, Wireframing, Rapid Prototyping, Usability Testing
 DevOps & Tools: Git, GitHub Actions, Docker, Vercel, VS Code
-```
+`
 
 ---
 
-## 📱 Mobile Application Development
+## 🚀 Featured Projects
 
-### 🥥 [Pooja Coconut Scan AI](https://github.com/rahaman1721/pooja-coconut-scan-ai)
+### 📱 Mobile & Edge AI Development
+
+#### 🥥 [Pooja Coconut Scan AI](https://github.com/rahaman1721/pooja-coconut-scan-ai)
 *AI-driven B2B Agricultural Quality Grading & Marketplace Platform*
 - **Stack**: React 19, Capacitor, AWS Amplify Gen 2, Amazon Cognito, DynamoDB, TensorFlow Lite.
 - Engineered offline-first on-device AI computer vision inference for real-time agricultural grading.
-- Implemented real-time market synchronization, multi-role buyer/seller workflows, and secure document verification.
+- Implemented marketplace order workflows, payment integration, real-time market rate synchronization, and admin console connection.
+- 📦 **[Download APK Release v1.0.0](https://github.com/rahaman1721/pooja-coconut-scan-ai/releases/tag/v1.0.0)**
 
-### 💰 [KAAS Personal Finance App](https://github.com/rahaman1721/kaas-personal-finance-app)
-*Clean, Privacy-Centric Offline Personal Finance & Expense Tracker*
-- **Stack**: React 19, TypeScript, Vite, Capacitor, LocalStorage, Custom SVG Visualizations.
-- Zero server-dependency privacy architecture: 100% on-device encrypted data persistence.
-- Interactive category breakdown, budget burn charts, dynamic currency toggles, and instant CSV/JSON exports.
-
-### 📊 [Bajaj Billing & Inventory SaaS](https://github.com/rahaman1721/bajaj-billing-inventory-case-study)
-*Enterprise Point-of-Sale, Stock Tracking, and Invoicing Application*
+#### 📊 [Bajaj Billing & Inventory Management](https://github.com/rahaman1721/bajaj-billing-inventory)
+*Enterprise Point-of-Sale, Stock Tracking, and Invoicing Hybrid Application*
 - **Stack**: React 19, Vite, Node.js, Capacitor Android.
 - Automated invoice processing and inventory replenishment, achieving a verified **~50% reduction in manual data entry**.
+- Real-time stock alerts, sales analytics, and offline-first transactional caching.
 
 ---
 
-## 💻 Full-Stack Web Development
+### 💻 Full-Stack Web & E-Commerce
 
-### 🌙 [Moon Bot — AI Customer Support Chatbot](https://github.com/rahaman1721/ai-customer-support-chatbot)
-*Production AI Customer Support Platform powered by Groq LLaMA/GPT & Node.js Proxy*
-- **Stack**: React, Node.js, Groq API, Streaming SSE (Server-Sent Events), LocalStorage.
-- Secure server proxy architecture ensuring zero browser exposure of sensitive LLM API keys.
-- Real-time token streaming with sub-200ms latency, intelligent company FAQ grounding, and fallback escalation.
+#### 🕶️ [NARKK Luxury Eyewear — Shopify Theme](https://github.com/rahaman1721/narkk-shopify)
+*High-End Custom Shopify Liquid Theme Development*
+- **Stack**: Shopify Liquid, HTML5, CSS3, JavaScript ES6+, Theme Architecture.
+- Custom luxury storefront featuring dynamic video hero showcases, interactive product variant selectors, drawer cart, and seamless checkout handoff.
+- Fully modular Liquid sections and snippets architecture adhering to Shopify OS 2.0 standards.
 
-### 🎓 [GSBT Institutional Portal Mirror & Architecture](https://github.com/rahaman1721/gsbt-website-clone)
-*Complete Offline-First High-Performance Mirror & Optimization Case Study*
-- **Stack**: HTML5, Vanilla JavaScript, CSS3, Automated Web Crawling & Mirroring Suite.
-- Mirrored 85+ dynamic department and admissions pages with 13,000+ validated link rewrites and zero 404 deadlocks.
+#### 🌙 [Moon Bot — AI Customer Support Chatbot](https://github.com/rahaman1721/ai-customer-support-chatbot)
+*Production AI Customer Support Platform with Streaming Inference*
+- **Stack**: React, Node.js, Groq API, Streaming SSE (Server-Sent Events), Express.
+- Secure server proxy architecture ensuring zero browser exposure of LLM API credentials.
+- Real-time token streaming with sub-200ms latency, intelligent company FAQ grounding, and interactive quick-replies.
 
-### 🏢 [Peniel Tech Enterprise Platform](https://github.com/rahaman1721)
-*Multi-tenant Enterprise Resource & Operations Portal*
-- **Stack**: React 18, Node.js, JWT Role-Based Access Control, Express.
-- Centralized administration console for enterprise clients, real-time metrics dashboard, and audit trails.
+#### 🎓 [GSBT Institutional Portal](https://github.com/rahaman1721/gsbt-website)
+*Official Educational Web Platform & Optimization*
+- **Stack**: HTML5, Vanilla JavaScript, CSS3, Information Architecture.
+- 85+ dynamic department and admissions pages with 13,000+ validated link structures and zero 404 deadlocks.
+- Fast page load performance with mobile-first responsive design.
+
+#### 🌐 [SocioCloud Public Platform & Redesign](https://github.com/rahaman1721/sociocloud-website)
+*Modern Public Website & Learning Platform UI/UX Architecture*
+- **Stack**: React 19, TypeScript, Tailwind CSS, Figma.
+- Complete redesign featuring course catalogues, dynamic pricing tiers, student testimonials, FAQ accordions, and dual dark/light themes.
+
+#### ⚡ [SprakDigiTask CRM](https://github.com/rahaman1721/sprakdigitask-crm)
+*Client Relationship Management & Operations Interface*
+- **Stack**: CRM Architecture, Responsive UI, Business Workflow Optimization.
+- Centralized customer record management, business intelligence dashboards, and structured operational tracking.
+- 🌐 [Live Interface](https://www.sprakdigitask.liveblog365.com/index.php?i=1)
 
 ---
 
-## 🎨 UI/UX Design Case Studies
+### 🎨 UI/UX Design & Case Studies
 
-### 🏆 [ECE Department Website — Anna University](https://github.com/rahaman1721/Department)
-- Design adopted as the official department website template.
-- Directed stakeholder interviews across faculty and student bodies to craft a modern, WCAG-compliant design system adopted as the official institutional template.
+#### 🏆 [ECE Department Official Website — Anna University](https://github.com/rahaman1721/Department)
+- Led user research and stakeholder discovery across faculty and student bodies.
+- Built a comprehensive WCAG-compliant design system and interactive Figma prototypes adopted as the department's official web template.
 
-### 💍 [Boat Smart Ring Wearable Companion](https://github.com/rahaman1721/boatSmartRing)
-- High-fidelity product design concept, 3D interaction mockup, and health tracking companion experience.
+#### 💍 [boAt Smart Ring Wearable Companion](https://github.com/rahaman1721/boatSmartRing)
+- High-fidelity OLED-optimized dark theme companion app and wearable product visualization.
+- Biometric health telemetry (Heart Rate, SpO2, HRV, Skin Temp), sleep architecture tracking, and smart touch gesture configuration.
 
-### 🍱 [UI/UX Task Series (Tasks 1–4)](https://github.com/rahaman1721?tab=repositories&q=ui-ux)
-- **Task 1**: Food Ordering App — Minimalist checkout funnel.
-- **Task 2**: E-Commerce Platform — Micro-interactions & filter architecture.
-- **Task 3**: Clean Newsletter System — Responsive modular email design.
-- **Task 4**: Coffee Barista Kiosk — High-contrast touch ordering interface.
+#### 🏢 [Cloudi5 Technologies — UI/UX Case Study](https://github.com/rahaman1721/cloudi5-ux-design)
+- Responsive web and mobile interface design for enterprise internal workflows.
+- User journey mapping, Figma component libraries, and interactive prototyping.
+
+#### 👥 [Trirope Technology — Employee Management System](https://github.com/rahaman1721/trirope-ux-design)
+- Intuitive dual-role (Admin vs Employee) workforce management system UI/UX.
+- Information architecture for onboarding, attendance monitoring, and performance metrics.
+
+#### 🍱 [UI/UX Design Series (Tasks 1–4)](https://github.com/rahaman1721?tab=repositories&q=ui-ux)
+- **[Task 1: Food Delivery App](https://github.com/rahaman1721/Ui-Ux-Design-Task-1)** — Minimalist checkout funnel and culinary browsing.
+- **[Task 2: E-Commerce Platform](https://github.com/rahaman1721/Ui-Ux-design-Task-2)** — Micro-interactions, swatch selectors, and slide-out cart.
+- **[Task 3: Email Newsletter](https://github.com/rahaman1721/Ui-Ux-design-Task-3)** — Scannable typography and bulletproof cross-client layout.
+- **[Task 4: RDZ Café Mobile App](https://github.com/rahaman1721/ui-ux-design-Task-4)** — Roast customizer, express pickup, and digital loyalty card.
 
 ---
 
 ## 💼 Professional Experience
 
 - **UI/UX & AI Developer** — *Sociocloud Pvt. Ltd., Chennai* (Dec 2024 – Present)
-  - Leading frontend architecture and AI agent prototypes.
+  - Leading frontend architecture and AI integration prototypes.
   - Designing comprehensive component libraries and high-converting web applications.
 - **Frontend & Design Lead** — *Department Portal Project, Anna University* (2024)
   - Spearheaded user research, responsive layouts, and cross-browser production rollouts.
