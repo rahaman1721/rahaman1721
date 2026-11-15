@@ -61,11 +61,12 @@ With deep experience across modern **React 19**, **TypeScript**, **React Native*
 - On-device camera receipt OCR, interactive SVG spending breakdown charts, and JSON/CSV export.
 - 📦 **[Download Android APK (v1.0.0)](https://github.com/rahaman1721/kaas-personal-finance-app/releases/tag/v1.0.0)** · [Inspect Source Code](https://github.com/rahaman1721/kaas-personal-finance-app/tree/main/src)
 
-#### 📊 [Bajaj Billing & Inventory Management](https://github.com/rahaman1721/bajaj-billing-inventory)
-*Enterprise Point-of-Sale, Stock Tracking, and Invoicing Hybrid Application*
-- **Stack**: React 19, Vite, Node.js, Capacitor (iOS & Android).
+#### 📱 [Bajaj Inventory & Billing Mobile App](https://github.com/rahaman1721/bajaj-billing-inventory)
+*Cross-Platform Mobile Application (Android & iOS) for Automotive Dealerships & Service Billing*
+- **Stack**: Capacitor (Android & iOS), React 19, TypeScript, Node.js, SQLite/IndexedDB.
+- Cross-platform mobile client for workshop technicians: real-time Job Card bay telemetry, camera barcode spare parts scanner, and Bluetooth thermal printer integration.
 - Automated invoice processing and inventory replenishment, achieving a verified **~50% reduction in manual data entry**.
-- Real-time stock alerts, sales analytics, and offline-first transactional caching.
+- Offline-first transactional synchronization ensuring seamless operations during workshop Wi-Fi blindspots.
 
 ---
 
