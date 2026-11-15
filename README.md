@@ -119,6 +119,30 @@ With deep experience across modern **React 19**, **TypeScript**, **React Native*
 - Designed contextual floating canvas controls, transparent subscription pricing, and accessible typography scales.
 - 🖼️ **[View 9 Production UI Screens & Case Study](https://github.com/rahaman1721/siteforge-ux-design)**
 
+#### 🪙 [Apex Crypto — Next-Gen Web3 Exchange, DeFi & Multi-Chain Wallet](https://github.com/rahaman1721/apex-crypto-exchange-ux)
+*Comprehensive 380+ Screen Design System, Multi-Chain Mobile Architecture & Real-Time Trading Terminal*
+- **Discipline:** Web3 Product Design, 380+ Screen Mobile/Desktop Design System, Financial Telemetry.
+- Built an exhaustive design system spanning biometric non-custodial wallet connections (MetaMask, Coinbase, Phantom), real-time order books, DeFi yield vaults, and dark-theme OLED trading terminals.
+- 🖼️ **[View 380+ Screen Case Study & Design System](https://github.com/rahaman1721/apex-crypto-exchange-ux)**
+
+#### 🏥 [MediCare — Clinic & Healthcare Operations Management SaaS](https://github.com/rahaman1721/medicare-clinic-management-ux)
+*End-to-End EHR Workflows, OPD Queue Management, Diagnostic Lab Reports & Healthcare Billing*
+- **Discipline:** Healthcare SaaS UX, Clinical Information Architecture, High-Density Data Grids.
+- Designed role-based clinical portals eliminating physician data-entry fatigue: patient triage queues, automated abnormal biomarker highlights, and insurance claims reconciliation.
+- 🖼️ **[View 5 Production Clinical Screens & Case Study](https://github.com/rahaman1721/medicare-clinic-management-ux)**
+
+#### 🎓 [PlacementPrep Pro — Online Proctored Exam & Assessment Portal](https://github.com/rahaman1721/placementprep-exam-portal-ux)
+*End-to-End EdTech Assessment UX, Proctored Examination Dashboard & Candidate Journey*
+- **Discipline:** EdTech Assessment UX, User Journey Mapping, Low-Fi to High-Fi Prototyping.
+- Architected candidate flow from role-based authentication to proctored test dashboards with active section timers, question palletes, anti-cheating telemetry, and performance analytics.
+- 🖼️ **[View User Flows, Wireframes & Exam Dashboard](https://github.com/rahaman1721/placementprep-exam-portal-ux)**
+
+#### 🚀 [AIDesign — High-Converting AI SaaS Platform Landing Page](https://github.com/rahaman1721/aidesign-saas-landing-ux)
+*Conversion-Optimized Dark-Theme UI/UX, SaaS Value Narrative & Micro-Delight Interactions*
+- **Discipline:** Landing Page Design, Conversion Rate Optimization (CRO), Modern SaaS Visual Identity.
+- Designed high-impact 12-column responsive layout with deep-space OLED contrast, generative gradient accents, and frictionless dual CTA onboarding funnels.
+- 🖼️ **[View Landing Page Design & CRO Breakdown](https://github.com/rahaman1721/aidesign-saas-landing-ux)**
+
 #### 🏆 [ECE Department Official Website — Anna University](https://github.com/rahaman1721/Department)
 - Led user research and stakeholder discovery across faculty and student bodies.
 - Built a comprehensive WCAG-compliant design system and interactive Figma prototypes adopted as the department's official web template.
