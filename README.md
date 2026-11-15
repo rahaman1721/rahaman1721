@@ -84,7 +84,7 @@ With deep experience across modern **React 19**, **TypeScript**, **React Native*
 - Real-time token streaming with sub-200ms latency, intelligent company FAQ grounding, and interactive quick-replies.
 - 💻 [Inspect Full Source Code](https://github.com/rahaman1721/ai-customer-support-chatbot)
 
-#### 🏢 [Peniel Technology — Enterprise ERP Platform](https://github.com/rahaman1721/penieltech-enterprise-platform)
+#### 🏢 [Enterprise ERP & Corporate Tax Solutions Platform](https://github.com/rahaman1721/penieltech-enterprise-platform)
 *Enterprise ERP Solutions, Tax Engines & Corporate Web Architecture (Dubai, UAE)*
 - **Stack**: React 19, TypeScript, Tailwind CSS, Vite.
 - Scalable corporate web platform featuring interactive UAE VAT and Corporate Tax computation engines, ERP platform comparison switchers (Oracle, SAP, Microsoft Dynamics 365, TallyPrime, Zoho), and certified partner showcase.
