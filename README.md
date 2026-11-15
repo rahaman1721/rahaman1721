@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,express,vite,nextjs,python,aws,apple,figma,git,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,express,vite,nextjs,python,aws,apple,html,css,figma,git,github)](https://skillicons.dev)
 
 </div>
 
