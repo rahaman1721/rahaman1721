@@ -67,10 +67,19 @@ With deep experience across modern **React 19**, **TypeScript**, **React Native*
 - Cross-platform mobile client for workshop technicians: real-time Job Card bay telemetry, camera barcode spare parts scanner, and Bluetooth thermal printer integration.
 - Automated invoice processing and inventory replenishment, achieving a verified **~50% reduction in manual data entry**.
 - Offline-first transactional synchronization ensuring seamless operations during workshop Wi-Fi blindspots.
+- 🔒 *Client NDA Protected: Proprietary dealer billing ledgers & commercial client assets omitted in compliance with confidentiality terms.*
 
 ---
 
 ### 💻 Full-Stack Web & E-Commerce
+
+#### 🛒 [Shopify AI Agent — Intelligent Shopping Assistant](https://github.com/rahaman1721/shopify-ai-agent)
+*Production AI Shopping Assistant powered by Gemini 2.0 Flash Tool Use & Real-Time SSE Streaming*
+- **Stack**: Python 3.11, FastAPI, Google Gemini 2.0 Flash, React 19, TypeScript, Shopify Storefront API.
+- Multi-turn autonomous tool calling across 5 live store operations: keyword search, variant inventory inspection, order tracking verification, policy retrieval, and smart recommendations.
+- Custom embeddable React chat widget featuring real-time SSE token streaming, bi-directional scrollable quick action pills, and inline product card carousels.
+- 📦 **[Explore Repository & Source Code](https://github.com/rahaman1721/shopify-ai-agent)**
+
 
 #### 🪵 [NARKK — Modular Storage & Furniture Storefront](https://github.com/rahaman1721/narkk-shopify)
 *Custom Shopify OS 2.0 Theme Development for Modern Modular Storage Systems*
@@ -175,8 +184,6 @@ With deep experience across modern **React 19**, **TypeScript**, **React Native*
 - **UI/UX & AI Developer** (Dec 2024 – Present)
   - Leading frontend architecture and AI integration prototypes.
   - Designing comprehensive component libraries and high-converting web applications.
-- **Frontend & Design Lead** — *Department Portal Project, Anna University* (2024)
-  - Spearheaded user research, responsive layouts, and cross-browser production rollouts.
 
 ---
 
