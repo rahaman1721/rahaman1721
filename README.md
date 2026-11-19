@@ -45,14 +45,32 @@ With deep experience across modern **React 19**, **TypeScript**, **React Native*
 
 ## 🚀 Featured Projects
 
-### 📱 Mobile & Edge AI Development
+### 🤖 Generative AI & Autonomous Agents
 
-#### 🥥 [Pooja Coconut Scan AI](https://github.com/rahaman1721/pooja-coconut-scan-ai)
+#### 🛒 [Shopify AI Agent — Intelligent Shopping Assistant](https://github.com/rahaman1721/shopify-ai-agent)
+*Production AI Shopping Assistant powered by Gemini 2.0 Flash Tool Use & Real-Time SSE Streaming*
+- **Stack**: Python 3.11, FastAPI, Google Gemini 2.0 Flash, React 19, TypeScript, Shopify Storefront API.
+- Multi-turn autonomous tool calling across 5 live store operations: keyword search, variant inventory inspection, order tracking verification, policy retrieval, and smart recommendations.
+- Custom embeddable React chat widget featuring real-time SSE token streaming, bi-directional scrollable quick action pills, and inline product card carousels.
+- 📦 **[Explore Repository & Source Code](https://github.com/rahaman1721/shopify-ai-agent)**
+
+#### 🌙 [Moon Bot — AI Customer Support Chatbot](https://github.com/rahaman1721/ai-customer-support-chatbot)
+*Production AI Customer Support Platform with Streaming Inference*
+- **Stack**: React, Node.js, Groq API, Streaming SSE (Server-Sent Events), Express.
+- Secure server proxy architecture ensuring zero browser exposure of LLM API credentials.
+- Real-time token streaming with sub-200ms latency, intelligent company FAQ grounding, and interactive quick-replies.
+- 💻 **[Inspect Full Source Code](https://github.com/rahaman1721/ai-customer-support-chatbot)**
+
+#### 🥥 [Pooja Coconut Scan AI — Multimodal Edge AI](https://github.com/rahaman1721/pooja-coconut-scan-ai)
 *AI-driven B2B Agricultural Quality Grading & Marketplace Platform*
 - **Stack**: React 19, Capacitor (iOS & Android), AWS Amplify Gen 2, Amazon Cognito, DynamoDB, TensorFlow Lite.
 - Engineered offline-first on-device AI computer vision inference for real-time agricultural grading.
 - Implemented marketplace order workflows, payment integration, real-time market rate synchronization, and admin console connection.
 - 📦 **[Download APK Release v1.0.0](https://github.com/rahaman1721/pooja-coconut-scan-ai/releases/tag/v1.0.0)**
+
+---
+
+### 📱 Mobile & Hybrid App Engineering
 
 #### 💰 [KAAS — Offline Personal Finance Tracker](https://github.com/rahaman1721/kaas-personal-finance-app)
 *Production React 19 + TypeScript + Capacitor Mobile Application*
@@ -73,32 +91,18 @@ With deep experience across modern **React 19**, **TypeScript**, **React Native*
 
 ### 💻 Full-Stack Web & E-Commerce
 
-#### 🛒 [Shopify AI Agent — Intelligent Shopping Assistant](https://github.com/rahaman1721/shopify-ai-agent)
-*Production AI Shopping Assistant powered by Gemini 2.0 Flash Tool Use & Real-Time SSE Streaming*
-- **Stack**: Python 3.11, FastAPI, Google Gemini 2.0 Flash, React 19, TypeScript, Shopify Storefront API.
-- Multi-turn autonomous tool calling across 5 live store operations: keyword search, variant inventory inspection, order tracking verification, policy retrieval, and smart recommendations.
-- Custom embeddable React chat widget featuring real-time SSE token streaming, bi-directional scrollable quick action pills, and inline product card carousels.
-- 📦 **[Explore Repository & Source Code](https://github.com/rahaman1721/shopify-ai-agent)**
-
-
 #### 🪵 [NARKK — Modular Storage & Furniture Storefront](https://github.com/rahaman1721/narkk-shopify)
 *Custom Shopify OS 2.0 Theme Development for Modern Modular Storage Systems*
 - **Stack**: Shopify Liquid, HTML5, CSS3, JavaScript ES6+, Theme Architecture.
 - Custom handcrafted storefront featuring dynamic video showcases (Tulai pegboard collection), interactive product variant selectors, drawer cart, and responsive storefront sections.
 - 🌐 [Live Storefront](https://www.narkk.com/) · [Explore Liquid Source Code](https://github.com/rahaman1721/narkk-shopify/tree/main/theme)
 
-#### 🌙 [Moon Bot — AI Customer Support Chatbot](https://github.com/rahaman1721/ai-customer-support-chatbot)
-*Production AI Customer Support Platform with Streaming Inference*
-- **Stack**: React, Node.js, Groq API, Streaming SSE (Server-Sent Events), Express.
-- Secure server proxy architecture ensuring zero browser exposure of LLM API credentials.
-- Real-time token streaming with sub-200ms latency, intelligent company FAQ grounding, and interactive quick-replies.
-- 💻 [Inspect Full Source Code](https://github.com/rahaman1721/ai-customer-support-chatbot)
-
 #### 🏢 [Enterprise ERP & Corporate Tax Solutions Platform](https://github.com/rahaman1721/penieltech-enterprise-platform)
 *Enterprise ERP Solutions, Tax Engines & Corporate Web Architecture (Dubai, UAE)*
 - **Stack**: React 19, TypeScript, Tailwind CSS, Vite.
 - Scalable corporate web platform featuring interactive UAE VAT and Corporate Tax computation engines, ERP platform comparison switchers (Oracle, SAP, Microsoft Dynamics 365, TallyPrime, Zoho), and certified partner showcase.
 - 🌐 [Live Corporate Portal](https://www.penieltech.com/)
+- 🔒 *Enterprise NDA Protected: Proprietary enterprise client schemas & AMC internal portal credentials omitted in compliance with confidentiality terms.*
 
 #### 🎓 [GSBT Institutional Portal](https://github.com/rahaman1721/gsbt-website)
 *Official Educational Web Platform & Optimization*
