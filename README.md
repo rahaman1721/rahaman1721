@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Skills](https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,express,vite,nextjs,python,aws,apple,html,css,figma,git,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,express,fastapi,python,vite,nextjs,aws,apple,html,css,figma,git&perline=8)](https://skillicons.dev)
 
 </div>
 
@@ -61,16 +61,16 @@ With deep experience across modern **React 19**, **TypeScript**, **React Native*
 - Real-time token streaming with sub-200ms latency, intelligent company FAQ grounding, and interactive quick-replies.
 - 💻 **[Inspect Full Source Code](https://github.com/rahaman1721/ai-customer-support-chatbot)**
 
+---
+
+### 📱 Mobile & Hybrid App Engineering
+
 #### 🥥 [Pooja Coconut Scan AI — Multimodal Edge AI](https://github.com/rahaman1721/pooja-coconut-scan-ai)
 *AI-driven B2B Agricultural Quality Grading & Marketplace Platform*
 - **Stack**: React 19, Capacitor (iOS & Android), AWS Amplify Gen 2, Amazon Cognito, DynamoDB, TensorFlow Lite.
 - Engineered offline-first on-device AI computer vision inference for real-time agricultural grading.
 - Implemented marketplace order workflows, payment integration, real-time market rate synchronization, and admin console connection.
 - 📦 **[Download APK Release v1.0.0](https://github.com/rahaman1721/pooja-coconut-scan-ai/releases/tag/v1.0.0)**
-
----
-
-### 📱 Mobile & Hybrid App Engineering
 
 #### 💰 [KAAS — Offline Personal Finance Tracker](https://github.com/rahaman1721/kaas-personal-finance-app)
 *Production React 19 + TypeScript + Capacitor Mobile Application*
