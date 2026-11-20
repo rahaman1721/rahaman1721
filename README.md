@@ -54,6 +54,13 @@ With deep experience across modern **React 19**, **TypeScript**, **React Native*
 - Custom embeddable React chat widget featuring real-time SSE token streaming, bi-directional scrollable quick action pills, and inline product card carousels.
 - 📦 **[Explore Repository & Source Code](https://github.com/rahaman1721/shopify-ai-agent)**
 
+#### 🔬 [Design Critique AI — 15-Category UI/UX Audit Tool](https://github.com/rahaman1721/design-critique-ai)
+*Multimodal UI/UX Audit Engine powered by Gemini 2.0 Flash Vision & Real-Time SSE Streaming*
+- **Stack**: Python 3.11, FastAPI / Starlette, Google Gemini 2.0 Flash Vision, React 19, TypeScript.
+- Comprehensive 15-category evaluation covering visual hierarchy, color & WCAG 2.1 AA/AAA contrast ratios, typography scale, mobile touch targets, and information architecture.
+- Progressive real-time SSE streaming delivering overall health scores (0–100), letter grades, categorized feedback cards, and prioritized remediation actions.
+- 🎨 **[Explore Repository & Source Code](https://github.com/rahaman1721/design-critique-ai)**
+
 #### 🌙 [Moon Bot — AI Customer Support Chatbot](https://github.com/rahaman1721/ai-customer-support-chatbot)
 *Production AI Customer Support Platform with Streaming Inference*
 - **Stack**: React, Node.js, Groq API, Streaming SSE (Server-Sent Events), Express.
